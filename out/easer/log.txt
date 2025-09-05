@@ -1,0 +1,1 @@
+if system_dependent('IsDebugMode')==1, dbcont; end

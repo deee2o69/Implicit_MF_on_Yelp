@@ -1,0 +1,58 @@
+---
+[05-Sep-2025 20:58:32] BO trial started: num_factors=78, lambda=0.00029117, lr=0.064643, neg_ratio=3, batch_size=1644
+---
+[05-Sep-2025 21:01:34] BO trial: num_factors=69, lambda=0.034294, lr=0.036099, neg_ratio=2, batch_size=3031
+---
+[05-Sep-2025 21:02:46] BO trial: num_factors=79, lambda=0.017981, lr=0.0019302, neg_ratio=3, batch_size=3041
+---
+[05-Sep-2025 21:03:14] BO trial: num_factors=111, lambda=0.00041056, lr=0.011409, neg_ratio=6, batch_size=660
+---
+[05-Sep-2025 21:08:58] BO trial: num_factors=96, lambda=0.046896, lr=0.00032466, neg_ratio=9, batch_size=1626
+[05-Sep-2025 21:27:31] Done in 1112.79s: Recall@20=0.195382, NDCG@20=0.067811, obj=-0.013249
+
+---
+[05-Sep-2025 21:27:33] BO trial: num_factors=36, lambda=0.00047388, lr=0.00011781, neg_ratio=4, batch_size=927
+[05-Sep-2025 21:36:56] Done in 563.19s: Recall@20=0.199838, NDCG@20=0.070310, obj=-0.0140506
+
+---
+[05-Sep-2025 21:36:57] BO trial: num_factors=89, lambda=0.0011098, lr=0.047251, neg_ratio=1, batch_size=3191
+[05-Sep-2025 21:46:19] Done in 562.05s: Recall@20=0.935776, NDCG@20=0.632510, obj=-0.591887
+
+---
+[05-Sep-2025 21:46:19] BO trial: num_factors=124, lambda=0.071548, lr=0.00011874, neg_ratio=1, batch_size=1771
+[05-Sep-2025 21:57:06] Done in 646.84s: Recall@20=0.197163, NDCG@20=0.068723, obj=-0.0135495
+
+---
+[05-Sep-2025 21:57:06] BO trial: num_factors=63, lambda=0.042737, lr=0.099974, neg_ratio=4, batch_size=3322
+[05-Sep-2025 22:07:39] Done in 632.31s: Recall@20=0.920210, NDCG@20=0.629774, obj=-0.579524
+
+---
+[05-Sep-2025 22:07:39] BO trial: num_factors=114, lambda=0.00051945, lr=0.00027836, neg_ratio=8, batch_size=3556
+[05-Sep-2025 22:27:05] Done in 1165.58s: Recall@20=0.199557, NDCG@20=0.070138, obj=-0.0139966
+
+---
+[05-Sep-2025 22:27:05] BO trial: num_factors=66, lambda=0.00020695, lr=0.0606, neg_ratio=10, batch_size=2101
+[05-Sep-2025 22:42:26] Done in 921.21s: Recall@20=0.960518, NDCG@20=0.714899, obj=-0.686673
+
+---
+[05-Sep-2025 22:42:26] BO trial: num_factors=47, lambda=0.054077, lr=0.029717, neg_ratio=10, batch_size=2753
+[05-Sep-2025 22:55:11] Done in 764.26s: Recall@20=0.680779, NDCG@20=0.343621, obj=-0.23393
+
+---
+[05-Sep-2025 22:55:11] BO trial: num_factors=28, lambda=0.00044164, lr=0.068552, neg_ratio=5, batch_size=3259
+[05-Sep-2025 23:03:47] Done in 515.89s: Recall@20=0.961200, NDCG@20=0.692077, obj=-0.665224
+
+---
+[05-Sep-2025 23:03:47] BO trial: num_factors=28, lambda=0.034067, lr=0.0029956, neg_ratio=4, batch_size=2567
+[05-Sep-2025 23:12:04] Done in 497.19s: Recall@20=0.184758, NDCG@20=0.063028, obj=-0.0116449
+
+---
+[05-Sep-2025 23:12:05] BO trial: num_factors=126, lambda=0.013022, lr=0.059981, neg_ratio=3, batch_size=3289
+[05-Sep-2025 23:27:19] Done in 914.34s: Recall@20=0.943819, NDCG@20=0.649537, obj=-0.613045
+
+---
+[05-Sep-2025 23:27:20] BO trial: num_factors=75, lambda=0.00010106, lr=0.061646, neg_ratio=3, batch_size=2599
+[05-Sep-2025 23:40:44] Done in 804.84s: Recall@20=0.954929, NDCG@20=0.670684, obj=-0.640456
+
+---
+[05-Sep-2025 23:40:45] BO trial: num_factors=106, lambda=0.00011184, lr=0.069894, neg_ratio=9, batch_size=2565

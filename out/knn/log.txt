@@ -1,0 +1,15 @@
+[05-Sep-2025 16:25:47] training Started for K = 20
+[05-Sep-2025 16:33:54] training ended, evaluation started
+[05-Sep-2025 17:47:06] evaluation ended
+Recall@20 = 0.998978
+NDCG@20 = 0.627240
+Total time for K = 20: 4878.94 seconds (81.32 minutes)
+[05-Sep-2025 17:47:20] training Started for K = 50
+[05-Sep-2025 18:03:13] training ended, evaluation started
+[05-Sep-2025 19:16:15] training Started for K = 50
+[05-Sep-2025 19:33:01] training ended, evaluation started
+[05-Sep-2025 20:21:31] evaluation ended
+Recall@20 = 0.988660
+NDCG@20 = 0.603222
+Total time for K = 50: 3916.31 seconds (65.27 minutes)
+[05-Sep-2025 20:22:08] training Started for K = 100

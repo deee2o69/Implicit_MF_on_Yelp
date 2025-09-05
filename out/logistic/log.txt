@@ -1,0 +1,3 @@
+[05-Sep-2025 20:44:28] Logistic MF training started
+[05-Sep-2025 20:57:24] Train/val split done: 2629508 train interactions, 306907 val interactions
+[05-Sep-2025 20:58:32] Train/val split done: 2629855 train interactions, 306907 val interactions
