@@ -1,0 +1,8 @@
+[06-Sep-2025 17:23:33]Run Started
+[06-Sep-2025 17:25:06]Run Started
+[06-Sep-2025 17:25:06][1/30] dims=85, lambda=0.9483, alpha=12, iter=6 
+ [06-Sep-2025 17:39:06][1/30] dims=85, lambda=0.9483, alpha=12, iter=6 → Recall@20=0.8701, NDCG@20=0.6645
+[06-Sep-2025 17:39:10][2/30] dims=88, lambda=0.6605, alpha=81, iter=6 
+ [06-Sep-2025 17:56:06]Run Started
+[06-Sep-2025 17:56:06][1/30] dims=137, lambda=0.4773, alpha=32, iter=10 
+ 

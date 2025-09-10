@@ -1,15 +1,40 @@
-[05-Sep-2025 16:25:47] training Started for K = 20
-[05-Sep-2025 16:33:54] training ended, evaluation started
-[05-Sep-2025 17:47:06] evaluation ended
-Recall@20 = 0.998978
-NDCG@20 = 0.627240
-Total time for K = 20: 4878.94 seconds (81.32 minutes)
-[05-Sep-2025 17:47:20] training Started for K = 50
-[05-Sep-2025 18:03:13] training ended, evaluation started
-[05-Sep-2025 19:16:15] training Started for K = 50
-[05-Sep-2025 19:33:01] training ended, evaluation started
-[05-Sep-2025 20:21:31] evaluation ended
-Recall@20 = 0.988660
-NDCG@20 = 0.603222
-Total time for K = 50: 3916.31 seconds (65.27 minutes)
-[05-Sep-2025 20:22:08] training Started for K = 100
+[06-Sep-2025 05:10:54] training started for K = 10
+[06-Sep-2025 05:16:26] training ended, validation started
+[06-Sep-2025 05:35:41] validation ended
+Recall@20 = 0.999872
+NDCG@20   = 0.699956
+Total time for K = 10: 1487.36 seconds (24.79 minutes)
+[06-Sep-2025 05:35:49] training started for K = 20
+[06-Sep-2025 05:42:58] training ended, validation started
+[06-Sep-2025 06:08:26] validation ended
+Recall@20 = 0.998969
+NDCG@20   = 0.640619
+Total time for K = 20: 1957.41 seconds (32.62 minutes)
+[06-Sep-2025 06:08:41] training started for K = 50
+[06-Sep-2025 06:22:00] training ended, validation started
+[06-Sep-2025 06:59:08] validation ended
+Recall@20 = 0.990023
+NDCG@20   = 0.624088
+Total time for K = 50: 3026.93 seconds (50.45 minutes)
+[06-Sep-2025 06:59:41] training started for K = 100
+[06-Sep-2025 07:22:29] training ended, validation started
+[06-Sep-2025 08:13:33] validation ended
+Recall@20 = 0.965213
+NDCG@20   = 0.626140
+Total time for K = 100: 4431.79 seconds (73.86 minutes)
+[06-Sep-2025 08:13:37] training started for K = 150
+[06-Sep-2025 08:45:12] training ended, validation started
+[06-Sep-2025 09:48:13] validation ended
+Recall@20 = 0.955082
+NDCG@20   = 0.626454
+Total time for K = 150: 5676.31 seconds (94.61 minutes)
+[06-Sep-2025 09:48:20] training started for K = 200
+[06-Sep-2025 10:28:14] training ended, validation started
+[06-Sep-2025 11:41:26] validation ended
+Recall@20 = 0.952560
+NDCG@20   = 0.626704
+Total time for K = 200: 6789.45 seconds (113.16 minutes)
+
+=== Best K found: 10 (val Recall*ndcg=0.699866) ===
+Final test Recall@20 = 0.999855
+Final test NDCG@20   = 0.693915

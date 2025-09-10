@@ -1,3 +1,18 @@
 [05-Sep-2025 20:44:28] Logistic MF training started
 [05-Sep-2025 20:57:24] Train/val split done: 2629508 train interactions, 306907 val interactions
 [05-Sep-2025 20:58:32] Train/val split done: 2629855 train interactions, 306907 val interactions
+[06-Sep-2025 02:13:27] Best params found:
+    <strong>num_factors</strong>      <strong>lambda</strong>         <strong>lr</strong>       <strong>neg_ratio</strong>    <strong>batch_size</strong>
+    <strong>___________</strong>    <strong>__________</strong>    <strong>________</strong>    <strong>_________</strong>    <strong>__________</strong>
+
+        116        0.00012192    0.066547       10           3957   
+
+
+[06-Sep-2025 02:59:00] Final evaluation on test started
+[06-Sep-2025 03:04:53] Final evaluation ended
+Recall@20 = 0.307677
+NDCG@20   = 0.118395
+[06-Sep-2025 05:00:04] Final evaluation on test started
+[06-Sep-2025 05:07:06] Final evaluation ended
+Recall@20 = 0.951010
+NDCG@20   = 0.705560

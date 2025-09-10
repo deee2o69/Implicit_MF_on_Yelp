@@ -1,12 +1,3 @@
----
-[05-Sep-2025 20:58:32] BO trial started: num_factors=78, lambda=0.00029117, lr=0.064643, neg_ratio=3, batch_size=1644
----
-[05-Sep-2025 21:01:34] BO trial: num_factors=69, lambda=0.034294, lr=0.036099, neg_ratio=2, batch_size=3031
----
-[05-Sep-2025 21:02:46] BO trial: num_factors=79, lambda=0.017981, lr=0.0019302, neg_ratio=3, batch_size=3041
----
-[05-Sep-2025 21:03:14] BO trial: num_factors=111, lambda=0.00041056, lr=0.011409, neg_ratio=6, batch_size=660
----
 [05-Sep-2025 21:08:58] BO trial: num_factors=96, lambda=0.046896, lr=0.00032466, neg_ratio=9, batch_size=1626
 [05-Sep-2025 21:27:31] Done in 1112.79s: Recall@20=0.195382, NDCG@20=0.067811, obj=-0.013249
 
@@ -56,3 +47,33 @@
 
 ---
 [05-Sep-2025 23:40:45] BO trial: num_factors=106, lambda=0.00011184, lr=0.069894, neg_ratio=9, batch_size=2565
+[06-Sep-2025 00:02:12] Done in 1287.51s: Recall@20=0.958073, NDCG@20=0.722955, obj=-0.692644
+
+---
+[06-Sep-2025 00:02:13] BO trial: num_factors=36, lambda=0.00011253, lr=0.074031, neg_ratio=10, batch_size=642
+[06-Sep-2025 00:17:10] Done in 896.84s: Recall@20=0.950592, NDCG@20=0.712542, obj=-0.677337
+
+---
+[06-Sep-2025 00:17:12] BO trial: num_factors=116, lambda=0.00012192, lr=0.066547, neg_ratio=10, batch_size=3957
+[06-Sep-2025 00:37:19] Done in 1207.54s: Recall@20=0.958959, NDCG@20=0.724203, obj=-0.694481
+
+---
+[06-Sep-2025 00:37:20] BO trial: num_factors=87, lambda=0.00010127, lr=0.063942, neg_ratio=8, batch_size=1566
+[06-Sep-2025 00:53:36] Done in 976.43s: Recall@20=0.961362, NDCG@20=0.715641, obj=-0.68799
+
+---
+[06-Sep-2025 00:53:36] BO trial: num_factors=65, lambda=0.00010953, lr=0.064844, neg_ratio=10, batch_size=2832
+[06-Sep-2025 01:08:02] Done in 865.80s: Recall@20=0.958959, NDCG@20=0.717856, obj=-0.688395
+
+---
+[06-Sep-2025 01:08:03] BO trial: num_factors=111, lambda=0.00010965, lr=0.066008, neg_ratio=10, batch_size=3834
+[06-Sep-2025 01:27:50] Done in 1186.89s: Recall@20=0.959070, NDCG@20=0.723734, obj=-0.694111
+
+---
+[06-Sep-2025 01:27:50] BO trial: num_factors=119, lambda=0.00014556, lr=0.066895, neg_ratio=10, batch_size=1344
+[06-Sep-2025 01:50:14] Done in 1344.28s: Recall@20=0.958499, NDCG@20=0.724399, obj=-0.694336
+
+---
+[06-Sep-2025 01:50:15] BO trial: num_factors=127, lambda=0.012618, lr=0.069214, neg_ratio=10, batch_size=1555
+[06-Sep-2025 02:13:27] Done in 1391.93s: Recall@20=0.952876, NDCG@20=0.692835, obj=-0.660185
+

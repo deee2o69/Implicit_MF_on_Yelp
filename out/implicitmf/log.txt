@@ -1,0 +1,64 @@
+[06-Sep-2025 19:46:20]Run Started
+[06-Sep-2025 19:46:20][1/30]Training dims=145, lambda=0.1697, alpha=33, iter=10 
+ [06-Sep-2025 19:47:24]Run Started
+[06-Sep-2025 19:47:24][1/30]Training dims=117, lambda=0.0313, alpha=49, iter=10 
+ [06-Sep-2025 20:07:17][1/30]Evaluation dims=117, lambda=0.0313, alpha=49, iter=10 → Recall@20=0.9088, NDCG@20=0.7301
+[06-Sep-2025 20:07:20][2/30]Training dims=124, lambda=0.4946, alpha=46, iter=10 
+ [06-Sep-2025 20:27:24][2/30]Evaluation dims=124, lambda=0.4946, alpha=46, iter=10 → Recall@20=0.9073, NDCG@20=0.7292
+[06-Sep-2025 20:27:27][3/30]Training dims=26, lambda=0.3463, alpha=27, iter=10 
+ [06-Sep-2025 20:45:33][3/30]Evaluation dims=26, lambda=0.3463, alpha=27, iter=10 → Recall@20=0.9316, NDCG@20=0.6939
+[06-Sep-2025 20:45:34][4/30]Training dims=175, lambda=0.2406, alpha=17, iter=10 
+ [06-Sep-2025 21:08:26][4/30]Evaluation dims=175, lambda=0.2406, alpha=17, iter=10 → Recall@20=0.8836, NDCG@20=0.7086
+[06-Sep-2025 21:08:30][5/30]Training dims=10, lambda=0.1592, alpha=50, iter=10 
+ [06-Sep-2025 21:26:20][5/30]Evaluation dims=10, lambda=0.1592, alpha=50, iter=10 → Recall@20=0.9254, NDCG@20=0.6428
+[06-Sep-2025 21:26:20][6/30]Training dims=101, lambda=0.3297, alpha=43, iter=10 
+ [06-Sep-2025 21:46:02][6/30]Evaluation dims=101, lambda=0.3297, alpha=43, iter=10 → Recall@20=0.9121, NDCG@20=0.7287
+[06-Sep-2025 21:46:05][7/30]Training dims=82, lambda=0.1702, alpha=25, iter=10 
+ [06-Sep-2025 22:05:21][7/30]Evaluation dims=82, lambda=0.1702, alpha=25, iter=10 → Recall@20=0.9105, NDCG@20=0.7202
+[06-Sep-2025 22:05:23][8/30]Training dims=38, lambda=0.4259, alpha=10, iter=10 
+ [06-Sep-2025 22:23:39][8/30]Evaluation dims=38, lambda=0.4259, alpha=10, iter=10 → Recall@20=0.9160, NDCG@20=0.6906
+[06-Sep-2025 22:23:40][9/30]Training dims=103, lambda=0.0526, alpha=35, iter=10 
+ [06-Sep-2025 22:43:03][9/30]Evaluation dims=103, lambda=0.0526, alpha=35, iter=10 → Recall@20=0.9088, NDCG@20=0.7254
+[06-Sep-2025 22:43:05][10/30]Training dims=77, lambda=0.1679, alpha=37, iter=10 
+ [06-Sep-2025 23:02:14][10/30]Evaluation dims=77, lambda=0.1679, alpha=37, iter=10 → Recall@20=0.9164, NDCG@20=0.7250
+[06-Sep-2025 23:02:16][11/30]Training dims=200, lambda=0.2349, alpha=50, iter=10 
+ [06-Sep-2025 23:25:32][11/30]Evaluation dims=200, lambda=0.2349, alpha=50, iter=10 → Recall@20=0.8917, NDCG@20=0.7221
+[06-Sep-2025 23:25:36][12/30]Training dims=91, lambda=0.4947, alpha=45, iter=10 
+ [06-Sep-2025 23:45:06][12/30]Evaluation dims=91, lambda=0.4947, alpha=45, iter=10 → Recall@20=0.9153, NDCG@20=0.7292
+[06-Sep-2025 23:45:08][13/30]Training dims=88, lambda=0.1155, alpha=50, iter=10 
+ [07-Sep-2025 00:04:35][13/30]Evaluation dims=88, lambda=0.1155, alpha=50, iter=10 → Recall@20=0.9161, NDCG@20=0.7300
+[07-Sep-2025 00:04:37][14/30]Training dims=80, lambda=0.1507, alpha=48, iter=10 
+ [07-Sep-2025 00:32:06][14/30]Evaluation dims=80, lambda=0.1507, alpha=48, iter=10 → Recall@20=0.9187, NDCG@20=0.7302
+[07-Sep-2025 00:32:10][15/30]Training dims=72, lambda=0.4634, alpha=50, iter=10 
+ [07-Sep-2025 01:05:39][15/30]Evaluation dims=72, lambda=0.4634, alpha=50, iter=10 → Recall@20=0.9221, NDCG@20=0.7298
+[07-Sep-2025 01:05:41][16/30]Training dims=63, lambda=0.4473, alpha=47, iter=10 
+ [07-Sep-2025 01:28:24][16/30]Evaluation dims=63, lambda=0.4473, alpha=47, iter=10 → Recall@20=0.9243, NDCG@20=0.7263
+[07-Sep-2025 01:28:26][17/30]Training dims=69, lambda=0.2437, alpha=50, iter=10 
+ [07-Sep-2025 01:58:19][17/30]Evaluation dims=69, lambda=0.2437, alpha=50, iter=10 → Recall@20=0.9235, NDCG@20=0.7296
+[07-Sep-2025 01:58:21][18/30]Training dims=157, lambda=0.0885, alpha=50, iter=10 
+ [07-Sep-2025 02:23:12][18/30]Evaluation dims=157, lambda=0.0885, alpha=50, iter=10 → Recall@20=0.9005, NDCG@20=0.7261
+[07-Sep-2025 02:23:17][19/30]Training dims=65, lambda=0.0249, alpha=50, iter=10 
+ [07-Sep-2025 02:53:14][19/30]Evaluation dims=65, lambda=0.0249, alpha=50, iter=10 → Recall@20=0.9243, NDCG@20=0.7296
+[07-Sep-2025 02:53:16][20/30]Training dims=118, lambda=0.0023, alpha=10, iter=10 
+ [07-Sep-2025 03:23:28][20/30]Evaluation dims=118, lambda=0.0023, alpha=10, iter=10 → Recall@20=0.8867, NDCG@20=0.7026
+[07-Sep-2025 03:23:31][21/30]Training dims=63, lambda=0.2386, alpha=50, iter=10 
+ [07-Sep-2025 03:49:32][21/30]Evaluation dims=63, lambda=0.2386, alpha=50, iter=10 → Recall@20=0.9253, NDCG@20=0.7276
+[07-Sep-2025 03:49:34][22/30]Training dims=54, lambda=0.0126, alpha=32, iter=10 
+ [07-Sep-2025 04:15:37][22/30]Evaluation dims=54, lambda=0.0126, alpha=32, iter=10 → Recall@20=0.9235, NDCG@20=0.7187
+[07-Sep-2025 04:15:39][23/30]Training dims=200, lambda=0.1974, alpha=30, iter=10 
+ [07-Sep-2025 04:46:51][23/30]Evaluation dims=200, lambda=0.1974, alpha=30, iter=10 → Recall@20=0.8867, NDCG@20=0.7161
+[07-Sep-2025 04:46:56][24/30]Training dims=68, lambda=0.0094, alpha=50, iter=10 
+ [07-Sep-2025 05:13:35][24/30]Evaluation dims=68, lambda=0.0094, alpha=50, iter=10 → Recall@20=0.9231, NDCG@20=0.7287
+[07-Sep-2025 05:13:37][25/30]Training dims=58, lambda=0.0132, alpha=44, iter=10 
+ [07-Sep-2025 05:39:45][25/30]Evaluation dims=58, lambda=0.0132, alpha=44, iter=10 → Recall@20=0.9258, NDCG@20=0.7251
+[07-Sep-2025 05:39:47][26/30]Training dims=60, lambda=0.0171, alpha=50, iter=10 
+ [07-Sep-2025 06:05:53][26/30]Evaluation dims=60, lambda=0.0171, alpha=50, iter=10 → Recall@20=0.9260, NDCG@20=0.7278
+[07-Sep-2025 06:05:55][27/30]Training dims=64, lambda=0.0826, alpha=48, iter=10 
+ [07-Sep-2025 06:32:01][27/30]Evaluation dims=64, lambda=0.0826, alpha=48, iter=10 → Recall@20=0.9241, NDCG@20=0.7280
+[07-Sep-2025 06:32:03][28/30]Training dims=50, lambda=0.4995, alpha=37, iter=10 
+ [07-Sep-2025 06:58:06][28/30]Evaluation dims=50, lambda=0.4995, alpha=37, iter=10 → Recall@20=0.9271, NDCG@20=0.7201
+[07-Sep-2025 06:58:08][29/30]Training dims=64, lambda=0.4988, alpha=35, iter=10 
+ [07-Sep-2025 07:26:10][29/30]Evaluation dims=64, lambda=0.4988, alpha=35, iter=10 → Recall@20=0.9211, NDCG@20=0.7236
+[07-Sep-2025 07:26:12][30/30]Training dims=63, lambda=0.0585, alpha=50, iter=10 
+ [07-Sep-2025 07:54:14][30/30]Evaluation dims=63, lambda=0.0585, alpha=50, iter=10 → Recall@20=0.9254, NDCG@20=0.7279
+[07-Sep-2025 11:24:13] Test results → Recall@20=0.900324, NDCG@20=0.690258
