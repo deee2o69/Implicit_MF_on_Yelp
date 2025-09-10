@@ -1,4 +1,18 @@
-# Yelp Recommendation System
+# Implicit Matrix factorization on YELP dataset
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Uni-duisburg-essen-logo-2022.jpg" alt="University of Duisburg-Essen" width="200">
+</p>
+
+<p align="center">
+  <b>Repository authored by</b><br>
+  Diaa Ahmed Masoud  
+  <br><br>
+  <b>University of Duisburg-Essen</b>
+  <br><br>
+  <b>Advisors:</b><br>
+  Jonathan Liebeton, M.Sc.<br>
+  Univ.-Prof. Dr.-Ing. Dirk Söffker
+</p>
 
 A MATLAB-based exploration of recommendation algorithms using Yelp dataset features. Included methods cover collaborative filtering (implicit), logistic regression, and popularity-based recommendations.
 
